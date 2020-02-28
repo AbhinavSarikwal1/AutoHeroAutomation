@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1150.654">
+  <properties />
+  
+  
+            <testcase name="testPriceSort" time="515.665" classname="com.autohero.searchfunc.SearchTest" />
+                <testcase name="testFirstReg" time="634.989" classname="com.autohero.searchfunc.SearchTest" />
+      
+</testsuite>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="859342" started-at="2020-02-28T07:42:10Z" finished-at="2020-02-28T07:56:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="859342" started-at="2020-02-28T07:42:10Z" finished-at="2020-02-28T07:56:30Z">
+      <class name="com.autohero.searchfunc.SearchTest">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="launch" is-config="true" duration-ms="12771" started-at="2020-02-28T13:12:10Z" finished-at="2020-02-28T13:12:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testFirstReg()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="testFirstReg" duration-ms="419479" started-at="2020-02-28T13:12:23Z" finished-at="2020-02-28T13:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstReg -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="logoutTest" is-config="true" duration-ms="595" started-at="2020-02-28T13:19:23Z" finished-at="2020-02-28T13:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="launch" is-config="true" duration-ms="10079" started-at="2020-02-28T13:19:23Z" finished-at="2020-02-28T13:19:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testPriceSort()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="testPriceSort" duration-ms="415719" started-at="2020-02-28T13:19:33Z" finished-at="2020-02-28T13:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPriceSort -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.autohero.searchfunc.SearchTest@3891771e]" name="logoutTest" is-config="true" duration-ms="607" started-at="2020-02-28T13:26:29Z" finished-at="2020-02-28T13:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+      </class> <!-- com.autohero.searchfunc.SearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
